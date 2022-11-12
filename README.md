@@ -16,6 +16,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACCP92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=haccp92&tag)](https://velog.io/@eungyeole) 
 </div>
 <br>
 
