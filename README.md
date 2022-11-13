@@ -1,27 +1,42 @@
-<div align="center">
+
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongHwan%20Cheon&fontSize=100&animation=twinkling)
- 
- 
- 🔥Hi There I'm a FrontEnd Developer🔥
+
+## 🙋‍♂️My info
+부트캠프에 들어와서 벌써 노트 절반과 펜을 다 써버렸습니다.   
+저는 메모하는 습관으로 짧거나 길게 적습니다.   
+현재 부트캠프에서 공부중입니다. 개발을 잘하지 않습니다.   
+제가 잘할 수 있는 팀원분들과  대화를 통해서 최우선으로 합니다.   
+떠오른 생각과 아이디어를 공유하면서 팀원분들의 반응이 궁금하고 좋아합니다.   
+<br>
+
+안녕하세요. 저는 주니어 프론트엔드 엔지니어 입니다.   
+개발자의 길로 들어오기전에는 다양한 인터페이스로 영상편집을 하면서 하나의 콘텐츠를 구축하는것을 좋아합니다.   
+떄로는 길을 잃고 헤맬지라도, 포기하지 않고 한 걸음 한 걸음씩 저만의 길을 만드는 개발자가 되겠습니다.   
+<br>
+
+• React, javascript, HTML(5), CSS, SCSS 공부중입니다.   
+• 부트캠프에서 React로 프로젝트를 진행중입니다.(22.10 ~ 진행중)   
+• 현재 개발 운영에는 미숙하지만 아이디어, 기획, 커뮤니케이션, 디자인, 운영에는 적극 참여할 수 있고 주도적입니다.   
+• 일상에서 불편한점 및 갑자기 떠오른 아이디어는 항상 메모하고 기록합니다.   
+• 팀원분들과 소통을 좋아합니다. 
+
 <br>
 <br>
 
 ## 💻📖 Studying 📖💻
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/><img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=black"/>
 
 <br>
 
 ## ⚒ Tools ⚒ 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=black"/>
 
- ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACCP92&show_icons=true&theme=gruvbox)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACCP92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACCP92&show_icons=true&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACCP92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haccp92)](https://github.com/haccp92/velog-readme-stats)
-</div>
+
 <br>
 
 
