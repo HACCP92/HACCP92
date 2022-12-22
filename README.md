@@ -36,7 +36,7 @@
  ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACCP92&show_icons=true&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACCP92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haccp92)](https://github.com/haccp92/velog-readme-stats)
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name={haccp92}&slug={2차 프로젝트 회고})]({https://velog.io/@haccp92/%EC%9C%84%EC%BD%94%EB%93%9C-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0})
 <br>
 
 
